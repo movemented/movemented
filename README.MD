@@ -8,4 +8,4 @@
 
 
 
-rip shad0w, m00n, and z0mbie
+<p1 align="center">rip shad0w, m00n, and z0mbie </p1>
