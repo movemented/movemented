@@ -29,9 +29,4 @@
 
 <p align="center">rip shad0w, m00n, and z0mbie </p>
 
-<h1 align="center"></h1>
-<h1 align="center"></h1>
-<h1 align="center"></h1>
-<h1 align="center"></h1>
-<h1 align="center"></h1>
 
